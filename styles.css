@@ -1,4 +1,15 @@
-/* I may want to make this smaller?  */
 p {
   font-size: 25px;
+}
+
+p {
+/*   font-size: 12px; */
+}
+
+.demo {
+  color: purple;
+}
+
+.demo-2 {
+  color: green;
 }
