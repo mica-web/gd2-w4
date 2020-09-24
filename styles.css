@@ -1,15 +1,7 @@
-p {
-  font-size: 25px;
-}
-
-p {
-/*   font-size: 12px; */
-}
-
-.demo {
-  color: purple;
-}
-
-.demo-2 {
+.heading {
   color: green;
+}
+
+h2 {
+  color: red;
 }
